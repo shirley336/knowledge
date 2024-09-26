@@ -330,7 +330,6 @@ Notwithstanding this Rule, a Customer that maintains deposit accounts for indivi
 ## 1.10.3 Exceptions to the Participation Restrictions
 
 In the following countries or territories, a Customer that acquires transactions of a Competing ATM Network at its ATMs is not rendered ineligible to be a Customer.
-|----------------------|----------------------|
 | Albania               | Australia            |
 | Bahrain               | Bolivia              |
 | Andorra               | Austria              |
